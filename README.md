@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👨‍💻 About Me<br><br>I'm **Deepanshu Singh Rathore**, a **Software Developer** with experience in **Flutter development** and a growing focus on **Backend Engineering with FastAPI and Python**.<br><br>* ⚡ Building scalable backend applications using **FastAPI, Python, and PostgreSQL**<br>* 📱 Experienced in developing cross-platform applications with **Flutter & Dart**<br>* 🤖 Applying **Machine Learning and Data Analytics** to build intelligent products<br>* 🎮 Currently building **GameIQ**, a gaming analytics platform focused on player insights and recommendations<br>* 🌱 Deepening my knowledge of **System Design, APIs, Database Design, and Backend Architecture**<br>* 🚀 Enjoy building products that solve real-world problems and deliver great user experiences<br>* 🎯 Working toward becoming a **Backend Engineer specializing in scalable systems and AI-powered applications**<br>
 
 
